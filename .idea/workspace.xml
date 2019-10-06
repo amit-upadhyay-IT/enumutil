@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b47b95cf-0adf-4ec6-9d67-f2ffec0ad5ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.12.9/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1RY87aWAKPfFT5o3njgEJtbpOAy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/tests/stringconstants" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="enumutil" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="enumutil" />
+      <working_directory value="$PROJECT_DIR$/../enumutil" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../enumutil/tests/main/stringconstantsTest.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="enumutil" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1569838395988">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="207" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1569838395988" />
+    <state x="569" y="129" key="#go_build_test.go" timestamp="1570386020430">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="427" y="111" key="#go_build_test.go/0.23.1440.877@0.23.1440.877" timestamp="1569836507460" />
+    <state x="569" y="129" key="#go_build_test.go/0.23.1920.1057@0.23.1920.1057" timestamp="1570386020430" />
+    <state x="825" y="294" width="980" height="765" key="#xdebugger.evaluate" timestamp="1570385582564">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="825" y="294" width="980" height="765" key="#xdebugger.evaluate/0.23.1920.1057@0.23.1920.1057" timestamp="1570385582564" />
+    <state width="1878" height="202" key="GridCell.Tab.0.bottom" timestamp="1570385781022">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1569839244633" />
+    <state width="1878" height="202" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1570385781022" />
+    <state width="1878" height="202" key="GridCell.Tab.0.center" timestamp="1570385781021">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1569839244633" />
+    <state width="1878" height="202" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1570385781021" />
+    <state width="1878" height="202" key="GridCell.Tab.0.left" timestamp="1570385781021">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1569839244630" />
+    <state width="1878" height="202" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1570385781021" />
+    <state width="1878" height="202" key="GridCell.Tab.0.right" timestamp="1570385781022">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1569839244633" />
+    <state width="1878" height="202" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1570385781022" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1570385593213">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1570385593213" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1570385593213">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1570385593213" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1570385593213">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1570385593213" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1570385593213">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1570385593213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../enumutil/tests/stringconstants/operations.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../enumutil/tests/stringconstants/operations.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
